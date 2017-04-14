@@ -5,7 +5,7 @@
 :hp-tags:  Blog, Feelings, Learningtocode, 
 :hp-alt-title: First things first.
 
-image::pcandcats.jpg[my pc, my cats and me]
+
 
  
 
