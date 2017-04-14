@@ -27,7 +27,7 @@
   "site": {
     "title": "My pc, my cats and me",
     "description": "Blog about my journey learning programming and my life in general",
-    "logo": "pixelcat.png",
+    "logo": "https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pixelcat.png",
     "cover": "pcandcats.jpg",
     "delay": "",
     "postsPerPage": "",
