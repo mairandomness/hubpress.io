@@ -1,0 +1,32 @@
+// = Randomain~
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Feelings, Learningtocode, 
+// :hp-alt-title: First things first.
+
+= First things first.
+
+It's been a while since I last had a blog.. And English is not my first language, so I probably should be spellchecking this.. But right now I'm mostly setting up this blog and looking at how it works in general, and maybe thinking about how to make it look cooler... Maybe I can draw something?
+
+***
+
+=== Okay.. Introductions?
+
+My name is Maira Kodama, 27 yo. +
+Born: May 30th 1989 around 7PM local time São Paulo -SP  +
+I'm not much of an astrology person, but I like a lot of people that are, so I think it's nice to have this out here.  +
+My favorite things about my birthday are: +
+--- it's Saint Joan of Arc's day which I personally think is pretty ironic, her being a saint and all +
+--- it's Mikhail Bakunin's birthday as well
+
+I'm a non-binary person, who usually presents as femme (I accept female pronoums, but I like the neutral ones better). I have a Teaching degree in Mathematics from University of São Paulo and I have been working with education (in a way or another) for the last 10 years.   +
+Right now, I feel that to continue to be a teacher in traditional schools I'd suffer too much or become desensitized. I don't like any of those options, so right now I'm mostly back to studying and trying to understand (as a student) how I feel about less traditional ways of learning, in which I feel like an active agent of my own education, something that never happened before. And this has been amazing so far :)
+
+***
+
+=== So... What have you been learning?
+
+Mostly programming related things
+
+
