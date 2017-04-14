@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://mairandomness.github.io/randomblog",
     "hubpress": "https://mairandomness.github.io/randomblog",
-    "theme": "//mairandomness.github.io/randomblog/themes/saga",
+    "theme": "//mairandomness.github.io/randomblog/themes/casper",
     "images": "https://mairandomness.github.io/randomblog/images"
   },
   "initialisationConfigComponent": {
@@ -36,8 +36,8 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
-    "twitter": "",
+    "github": "mairandomness",
+    "twitter": "mairandomness",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
