@@ -6,6 +6,7 @@
 // :hp-alt-title: First things first.
 
 
+image::http://github.com/mairandomness/randomblog/images/pcandcats.png
 
 = First things first.
 
