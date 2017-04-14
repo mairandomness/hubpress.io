@@ -1,11 +1,10 @@
 =  First things first
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcats.jpg
 //:published_at: 2019-01-31
 :hp-tags:  Blog, Feelings, Learningtocode, 
 :hp-alt-title: First things first.
 
-
+image::pcandcats.jpg[my pc, my cats and me]
 
  
 
