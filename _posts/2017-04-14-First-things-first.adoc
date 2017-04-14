@@ -1,11 +1,11 @@
 = My pc, my cats and me 
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: pcandcats.png
+:hp-image: pcandcats.jpg
 //:published_at: 2019-01-31
 :hp-tags:  Blog, Feelings, Learningtocode, 
 :hp-alt-title: First things first.
 
-image::pcandcats.png[my pc, my cats and me]
+image::pcandcats.jpg[my pc, my cats and me]
 
 === First things first.
 
