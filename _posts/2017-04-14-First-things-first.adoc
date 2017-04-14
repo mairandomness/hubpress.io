@@ -1,6 +1,6 @@
 // = Randomain~
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+// :hp-image: https://68.media.tumblr.com/940d7a8bc80f1f62c9480df9fda44a7e/tumblr_ooetx5YBah1qfg4ubo1_1280.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Feelings, Learningtocode, 
 // :hp-alt-title: First things first.
