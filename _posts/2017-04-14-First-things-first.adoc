@@ -5,8 +5,7 @@
 :hp-tags:  Blog, Feelings, Learningtocode, 
 :hp-alt-title: First things first.
 
-image:: pcandcats.jpg
- 
+image::pcandcats.jpg[my pc my cats and me] 
 
 
 It's been a while since I last had a blog... And English is not my first language, so I probably should be spellchecking this... But right now I'm mostly setting up this blog and looking at how it works in general, and maybe thinking about how to make it look cooler... Maybe I can draw something?
