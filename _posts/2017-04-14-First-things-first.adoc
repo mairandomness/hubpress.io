@@ -5,8 +5,7 @@
 // :hp-tags: HubPress, Blog, Feelings, Learningtocode, 
 // :hp-alt-title: First things first.
 
-
-image::http://github.com/mairandomness/randomblog/images/pcandcats.png
+[logo]: http://github.com/mairandomness/randomblog/images/pcandcats.png"mah pc my cats and me"
 
 = First things first.
 
