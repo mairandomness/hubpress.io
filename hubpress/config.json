@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://mairandomness.github.io/randomblog",
+    "hubpress": "https://mairandomness.github.io/randomblog",
+    "theme": "//mairandomness.github.io/randomblog/themes/casper",
+    "images": "https://mairandomness.github.io/randomblog/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
