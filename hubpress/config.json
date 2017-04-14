@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Saga"
+    "name": "casper"
   },
   "urls": {
     "site": "https://mairandomness.github.io/randomblog",
     "hubpress": "https://mairandomness.github.io/randomblog",
-    "theme": "//mairandomness.github.io/randomblog/themes/Saga",
+    "theme": "//mairandomness.github.io/randomblog/themes/saga",
     "images": "https://mairandomness.github.io/randomblog/images"
   },
   "initialisationConfigComponent": {
@@ -27,8 +27,8 @@
   "site": {
     "title": "My pc, my cats and me",
     "description": "Blog about my journey learning programming and my life in general",
-    "logo": "/images/pixelcat.png",
-    "cover": "/images/pcandcats.jpg",
+    "logo": "pixelcat.png",
+    "cover": "pcandcats.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
