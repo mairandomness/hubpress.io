@@ -2,10 +2,11 @@
   "meta": {
     "username": "mairandomness",
     "repositoryName": "randomblog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "Saga"
   },
   "urls": {
     "site": "https://mairandomness.github.io/randomblog",
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "My pc, my cats and me",
+    "description": "Blog about my journey learning programming and my life in general",
+    "logo": "/images/pixelcat.png",
+    "cover": "/images/pcandcats.jpg",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
