@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://mairandomness.github.io/randomblog",
     "hubpress": "https://mairandomness.github.io/randomblog",
-    "theme": "//mairandomness.github.io/randomblog/themes/uno-zen",
+    "theme": "//mairandomness.github.io/randomblog/themes/casper",
     "images": "https://mairandomness.github.io/randomblog/images"
   },
   "initialisationConfigComponent": {
