@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://mairandomness.github.io/randomblog",
     "hubpress": "https://mairandomness.github.io/randomblog",
-    "theme": "//mairandomness.github.io/randomblog/themes/casper",
+    "theme": "//mairandomness.github.io/randomblog/themes/uno",
     "images": "https://mairandomness.github.io/randomblog/images"
   },
   "initialisationConfigComponent": {
