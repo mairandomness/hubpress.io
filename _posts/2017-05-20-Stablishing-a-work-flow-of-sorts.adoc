@@ -22,7 +22,7 @@ They have been wonderfully supportive of this whole deal, so much, that in fact,
 * they also lent me their previous notebook which is a quite powerful 15'dell which is currently running on Linux
 
 That being said, I haven't done much this past month apart from today. +
-I finished 6.002x - 6.00.2x: Introduction to Computational Thinking and Data Science
+I finished 6.00.2x: Introduction to Computational Thinking and Data Science
 course from edx which was nice, and I can say that I got SO EXCITED that the last set of lectures was about statistical fallacies that I even took a week of classes with my high school students to go over the same basic concepts with them, because I truly believe that being able to identify when data is being twisted is a fundamental skill, especially in a world in which you can be bombarded with so much information.
 
 Today in specific I was busy deciding on things to learn over the next months.+
@@ -43,11 +43,11 @@ but I am a bit afraid that means I'm not going to work as hard in trying to memo
 === On lighter notes
 
 I'm currently reading a book called "Our souls at night" which is about old people and about making bonds at a very old age. It's nice. +
-These past few weeks I did some crafting, crochet and such.+
+These past few weeks I did some crafting, crochet and such. +
 Basically, a beanie with cat ears and a stuffed octopus while watching shows on Netflix and eating junk food, it did my soul very good.
 
 
-I spent most of my day yesterday messing around with the iPad, which is one of those devices that I never really thought I would ever want (that was before the apple pencil was a thing). I did get a kindle for e-reading at some point in the past, mostly because I wanted to have access to books in English and because I felt that bright screens were somewhat exhausting. One of the problems of devices like the kindle, however, is that if you read pdfs, it is too tiny to read without zooming in and that can be a bit of a pain.+
+I spent most of my day yesterday messing around with the iPad, which is one of those devices that I never really thought I would ever want (that was before the apple pencil was a thing). I did get a kindle for e-reading at some point in the past, mostly because I wanted to have access to books in English and because I felt that bright screens were somewhat exhausting. One of the problems of devices like the kindle, however, is that if you read pdfs, it is too tiny to read without zooming in and that can be a bit of a pain. +
 That's basically how the idea of getting an iPad got in our lives, and I'm interpreting the gift as a very, very supportive message towards me studiyng~
 
 Jubs is a bit on the fence about the idea of attending the ElixirConf, but we are still pretty much set on attending Strange Loop and Papers We Love on the pre-conf day:3
