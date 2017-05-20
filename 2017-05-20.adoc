@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <title>My pc, my cats and me</title>
+    <title>, - My pc, my cats and me</title>
 
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
@@ -15,35 +15,44 @@
     <meta name="description" content="">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="My pc, my cats and me">
+    <meta name="twitter:title" content=",">
     <meta name="twitter:description" content="">
 
     <meta property="og:type" content="article">
-    <meta property="og:title" content="My pc, my cats and me">
+    <meta property="og:title" content=",">
     <meta property="og:description" content="">
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
 
-    <link rel="stylesheet" type="text/css" href="//mairandomness.github.io/randomblog/themes/uno/assets/css/uno.css?v=1495257684336" />
+    <link rel="stylesheet" type="text/css" href="//mairandomness.github.io/randomblog/themes/uno/assets/css/uno.css?v=1495257684580" />
 
-    <link rel="canonical" href="https://mairandomness.github.io/randomblog/" />
+    <link rel="canonical" href="https://mairandomness.github.io/randomblog/2017-05-20.adoc" />
     <meta name="referrer" content="origin" />
     
     <meta property="og:site_name" content="My pc, my cats and me" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="My pc, my cats and me" />
-    <meta property="og:url" content="https://mairandomness.github.io/randomblog/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="," />
+    <meta property="og:url" content="https://mairandomness.github.io/randomblog/2017-05-20.adoc" />
+    <meta property="article:published_time" content="2017-05-20T00:00:00.000Z" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="My pc, my cats and me" />
-    <meta name="twitter:url" content="https://mairandomness.github.io/randomblog/" />
+    <meta name="twitter:title" content="," />
+    <meta name="twitter:url" content="https://mairandomness.github.io/randomblog/2017-05-20.adoc" />
     
     <script type="application/ld+json">
 {
     "@context": "http://schema.org",
-    "@type": "Website",
+    "@type": "Article",
     "publisher": "My pc, my cats and me",
-    "url": "https://mairandomness.github.io/randomblog/"
+    "author": {
+        "@type": "Person",
+        "name": "mairandomness",
+        "image": "https://avatars1.githubusercontent.com/u/24379464?v=3",
+        "url": "https://mairandomness.github.io/randomblog/author/mairandomness/"
+    },
+    "headline": ",",
+    "url": "https://mairandomness.github.io/randomblog/2017-05-20.adoc",
+    "datePublished": "2017-05-20T00:00:00.000Z"
 }
     </script>
 
@@ -52,14 +61,14 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
 
 </head>
-<body class="home-template no-js">
+<body class="post-template no-js">
 
     <span class="mobile btn-mobile-menu">
         <i class="icon icon-list btn-mobile-menu__icon"></i>
         <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
     </span>
 
-    <header class="panel-cover  " style="background-image: url(https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg)">
+    <header class="panel-cover panel-cover--collapsed " style="background-image: url(https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg)">
       <div class="panel-main">
     
         <div class="panel-main__inner panel-inverted">
@@ -125,37 +134,25 @@
     <div class="content-wrapper">
         <div class="content-wrapper__inner">
             
-  <div class="main-post-list">
 
-    <ol class="post-list">
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="https://mairandomness.github.io/randomblog2017-05-20.adoc" title="link to ,">,</a></h2>
-        <p class="excerpt">&hellip;</p>
-        <div class="post-list__meta"><time datetime="20 May 2017" class="post-list__meta--date date">20 May 2017</time> &#8226; <span class="post-list__meta--tags tags"></span></div>
-        <hr class="post-list__divider" />
-      </li>
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="https://mairandomness.github.io/randomblog/2017/05/20/Stablishing-a-work-flow-of-sorts.html" title="link to Stablishing a work-flow of sorts">Stablishing a work-flow of sorts</a></h2>
-        <p class="excerpt">a picture of part of my newly stablished Vim command wall My last post was around a month ago, I&#8217;m still working as a teacher and I&#8217;m also quite the procrastinator, so I&#8217;m moving at a somewhat slow pace on this. Which is also&hellip;</p>
-        <div class="post-list__meta"><time datetime="20 May 2017" class="post-list__meta--date date">20 May 2017</time> &#8226; <span class="post-list__meta--tags tags"></span></div>
-        <hr class="post-list__divider" />
-      </li>
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="https://mairandomness.github.io/randomblog/2017/04/14/First-things-first.html" title="link to First things first">First things first</a></h2>
-        <p class="excerpt">My last post was around a month ago, I&#8217;m still working as a teacher and I&#8217;m also quite the procrastinator, so I&#8217;m moving at a somewhat slow pace on this. Which is also fine, I guess (: What&#8217;s happening right now? Okay, so&hellip;</p>
-        <div class="post-list__meta"><time datetime="14 Apr 2017" class="post-list__meta--date date">14 Apr 2017</time> &#8226; <span class="post-list__meta--tags tags">on <a href="https://mairandomness.github.io/randomblog/tag/Blog/">Blog</a>, <a href="https://mairandomness.github.io/randomblog/tag/Feelings/">Feelings</a>, <a href="https://mairandomness.github.io/randomblog/tag/Learningtocode/">Learningtocode</a></span></div>
-        <hr class="post-list__divider" />
-      </li>
-    </ol>
+  <article class="post-container post-container--single">
 
-    <hr class="post-list__divider " />
+    <header class="post-header">
+      <div class="post-meta">
+        <time datetime="20 May 2017" class="post-meta__date date">20 May 2017</time> &#8226; <span class="post-meta__tags tags"></span>
+        <span class="post-meta__author author"><img src="https://avatars1.githubusercontent.com/u/24379464?v&#x3D;3" alt="profile image for mairandomness" class="avatar post-meta__avatar" /> by mairandomness</span>
+      </div>
+      <h1 class="post-title">,</h1>
+    </header>
 
-<nav class="pagination" role="navigation">
-    <span class="pagination__page-number">Page 1 of 1</span>
-</nav>
+    <section class="post">
+      
+    </section>
+
+  </article>
 
 
-  </div>
+
 
             <footer class="footer">
                 <span class="footer__copyright">&copy; 2017. All rights reserved.</span>
@@ -180,7 +177,7 @@
        
     <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 
-    <script type="text/javascript" src="//mairandomness.github.io/randomblog/themes/uno/assets/js/main.js?v=1495257684336"></script>
+    <script type="text/javascript" src="//mairandomness.github.io/randomblog/themes/uno/assets/js/main.js?v=1495257684580"></script>
     
 
 </body>
