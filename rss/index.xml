@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My pc, my cats and me]]></title><description><![CDATA[Blog about my journey learning things and surviving life in general]]></description><link>https://mairandomness.github.io/randomblog</link><image><url>https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg</url><title>My pc, my cats and me</title><link>https://mairandomness.github.io/randomblog</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 20 May 2017 05:38:45 GMT</lastBuildDate><atom:link href="https://mairandomness.github.io/randomblog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First things first]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My pc, my cats and me]]></title><description><![CDATA[Blog about my journey learning things and surviving life in general]]></description><link>https://mairandomness.github.io/randomblog</link><image><url>https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg</url><title>My pc, my cats and me</title><link>https://mairandomness.github.io/randomblog</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 20 May 2017 05:40:30 GMT</lastBuildDate><atom:link href="https://mairandomness.github.io/randomblog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Establishing a work-flow of sorts]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="https://mairandomness.github.io/randomblog/images/20170520_011223.jpg" alt="my vim commands wall">
+</div>
+</div>
+<div class="paragraph">
+<p><em>a picture of part of my newly established Vim command wall</em></p>
+</div>
+<div class="paragraph">
+<p>My last post was around a month ago, I&#8217;m still working as a teacher and I&#8217;m also quite the procrastinator, so I&#8217;m moving at a somewhat slow pace on this. Which is also fine, I guess (:</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_what_s_happening_right_now">What&#8217;s happening right now?</h3>
+<div class="paragraph">
+<p>Okay, so Jubs (my partner) was in New York for the last two weeks in The Recurse Center&#8217;s never graduate week and brought me some stuff as gifts~<br>
+They have been wonderfully supportive of this whole deal, so much, that in fact, they got me:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Christopher Allen and Julie Moronuki&#8217;s book on Haskell (quite a while ago)</p>
+</li>
+<li>
+<p>Learn C the Hard Way from Zed Shawn</p>
+</li>
+<li>
+<p>Pointers on C from Kenneth Reek</p>
+</li>
+<li>
+<p>an iPad Pro for reading ebooks and stuff (as an early birthday gift :D)</p>
+</li>
+<li>
+<p>they also lent me their previous notebook which is a quite powerful 15&#8217;dell which is currently running on Linux</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>That being said, I haven&#8217;t done much this past month apart from today.<br>
+I finished 6.00.2x: Introduction to Computational Thinking and Data Science
+course from edx which was nice, and I can say that I got SO EXCITED that the last set of lectures was about statistical fallacies that I even took a week of classes with my high school students to go over the same basic concepts with them, because I truly believe that being able to identify when data is being twisted is a fundamental skill, especially in a world in which you can be bombarded with so much information.</p>
+</div>
+<div class="paragraph">
+<p>Today in specific I was busy deciding on things to learn over the next months.+</p>
+</div>
+<div class="paragraph">
+<p>One of the things I&#8217;m doing is going over Learn C the Hard Way, which seems to be a good introductory book on C even though Zed Shawn can be quite excessive when asserting his beliefs, the book does seem to be good. The weirdest thing about it is that it comes with a DVD and it&#8217;s not even an old edition, it&#8217;s from 2016. It&#8217;s just obsolete media&#8230;&#8203; I don&#8217;t even own a DVD reader anymore and I don&#8217;t even know how many years it has been this way. I&#8217;m probably going to take the DVD to the school I work in and copy the files to a pen drive, or something. The second weirdest thing is probably the recommendation of using flash cards to memorize operators and its meanings.</p>
+</div>
+<div class="paragraph">
+<p>Since I decided to go over this book and the author specifies very explicitly that one of the best things you can do if you want to be an actual programmer is not use an IDE, one of the first things was deciding which text editor to go with. I had only used a little bit of Sublime Text before, but not nearly enough to have mastered shortcuts, so I decided to go with Vim, on a Linux machine and also use git to save the projects to access them later (Jubs got on my case about my tossing away a lot of the code I write, that I should keep it instead, even if it&#8217;s silly and quick stuff because it can be useful, so I made a repository of random learning stuff on my GitHub). And since I decided to learn all that new stuff, why not go all the way and work with Linux as well?</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_on_being_a_noob_and_deciding_to_use_vim">On being a noob and deciding to use Vim</h3>
+<div class="paragraph">
+<p>To be fair, I did play some of Vim adventures (a puzzle game that was designed to teach you how the shortcuts in Vim work) last year but forgot most of it. I did know already that Vim is awfully counter-intuitive, but if a tool is that weird and still so widely adopted, there&#8217;s definitely something there despite the annoying learning curve. So if I have to master some text editor, it might as well be the one with the weirdest learning curve, so I don&#8217;t have to try and master it after I have a good workflow going on in some other text editor.</p>
+</div>
+<div class="paragraph">
+<p>The first thing I did was look around on the internet to get some cheat-sheets ready in a visible location (aka. my wall).</p>
+</div>
+<div class="paragraph">
+<p>After talking about Vim and it&#8217;s peculiarities with my partner, they mentioned that their coworkers created a configuration for it which is called <a href="https://github.com/stoeffelberg/brangelina">Brangelina</a>. Soon enough we discovered that Brangelina is actually a set of configurations for Neovim, and honestly, it looks pretty good and has some pretty nice plugins. I can&#8217;t express how happy I am that Neovim (unlike Vim) accepts cursor inputs &lt;3<br>
+but I am a bit afraid that means I&#8217;m not going to work as hard in trying to memorize the shortcuts&#8230;&#8203; Tradeoffs, right?</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_on_lighter_notes">On lighter notes</h3>
+<div class="paragraph">
+<p>I&#8217;m currently reading a book called "Our souls at night" which is about old people and about making bonds at a very old age. It&#8217;s nice.<br>
+These past few weeks I did some crafting, crochet and such.<br>
+Basically, a beanie with cat ears and a stuffed octopus while watching shows on Netflix and eating junk food, it did my soul very good.</p>
+</div>
+<div class="paragraph">
+<p>I spent most of my day yesterday messing around with the iPad, which is one of those devices that I never really thought I would ever want (that was before the apple pencil was a thing). I did get a kindle for e-reading at some point in the past, mostly because I wanted to have access to books in English and because I felt that bright screens were somewhat exhausting. One of the problems of devices like the kindle, however, is that if you read pdfs, it is too tiny to read without zooming in and that can be a bit of a pain.<br>
+That&#8217;s basically how the idea of getting an iPad got in our lives, and I&#8217;m interpreting the gift as a very, very supportive message towards me studiyng~</p>
+</div>
+<div class="paragraph">
+<p>Jubs is a bit on the fence about the idea of attending the ElixirConf, but we are still pretty much set on attending Strange Loop and Papers We Love on the pre-conf day:3</p>
+</div>
+<div class="paragraph">
+<p>I will attend the preparatory boot camp (aka piscine) of 42us from August 6th to the beginning of September and I&#8217;m scared shitless of taking that leap of a career path change, but also SO EXCITED.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;m unsure of when I&#8217;ll post again. But I will~<br>
+See ya soon!// = Your Blog title</p>
+</div>
+</div>]]></description><link>https://mairandomness.github.io/randomblog/2017/05/20/Stablishing-a-work-flow-of-sorts.html</link><guid isPermaLink="true">https://mairandomness.github.io/randomblog/2017/05/20/Stablishing-a-work-flow-of-sorts.html</guid><pubDate>Sat, 20 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[First things first]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
