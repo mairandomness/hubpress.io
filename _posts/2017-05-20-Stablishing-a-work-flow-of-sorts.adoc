@@ -46,6 +46,10 @@ I'm currently reading a book called "Our souls at night" which is about old peop
 These past few weeks I did some crafting, crochet and such. +
 Basically, a beanie with cat ears and a stuffed octopus while watching shows on Netflix and eating junk food, it did my soul very good.
 
+image::octopus.png[crochet octopus]
+
+__crochet octopus, I made for my baby half-brother who is 2 months old__
+
 
 I spent most of my day yesterday messing around with the iPad, which is one of those devices that I never really thought I would ever want (that was before the apple pencil was a thing). I did get a kindle for e-reading at some point in the past, mostly because I wanted to have access to books in English and because I felt that bright screens were somewhat exhausting. One of the problems of devices like the kindle, however, is that if you read pdfs, it is too tiny to read without zooming in and that can be a bit of a pain. +
 That's basically how the idea of getting an iPad got in our lives, and I'm interpreting the gift as a very, very supportive message towards me studiyng~
@@ -55,9 +59,4 @@ Jubs is a bit on the fence about the idea of attending the ElixirConf, but we ar
 I will attend the preparatory boot camp (aka piscine) of 42us from August 6th to the beginning of September and I'm scared shitless of taking that leap of a career path change, but also SO EXCITED.
 
 I'm unsure of when I'll post again. But I will~ +
-See ya soon!// = Your Blog title
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
-// :published_at: 2019-01-31
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
+See ya soon!
