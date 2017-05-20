@@ -1,4 +1,4 @@
-= Stablishing a work-flow of sorts
+= Establishing a work-flow of sorts
 // = Your Blog title
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
@@ -7,7 +7,7 @@
 :hp-alt-title: Stablishing a work-flow of sorts
 
 image::20170520_011223.jpg[my vim commands wall]
-_a picture of part of my newly stablished Vim command wall_
+_a picture of part of my newly established Vim command wall_
 
 My last post was around a month ago, I'm still working as a teacher and I'm also quite the procrastinator, so I'm moving at a somewhat slow pace on this. Which is also fine, I guess (:
 
