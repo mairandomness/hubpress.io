@@ -1,4 +1,4 @@
-= The very scary phenomenum of things starting to get concrete
+= *The very scary phenomenum of things starting to get concrete*
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about e parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-07-11
