@@ -30,6 +30,10 @@ The date of my travel to attend 42 silicon valley is getting closer (because tha
 For starters, it is a collaborative space, but with no particular code of conduct or anything... I worry that a lot of the bad behaviors and prejudices that are common to the tech industry will be present to the point of me not feeling comfortable in that space. I got some red flags on the slack channel, but it's hard to say that those behaviors are representative of the community. I don't want to feel down without the need, but I really also don't want to get my hopes up about how I'll feel about the environment. 
 
 === On other notes
-I got in the Wichat (Woman in tech) slack community and it seems like a great place to be in! 
+I dislike Zed Shawn increasingly as I go through the book, I guess he can complain as much as he likes, but he definitely could teach something while refraining from attacking people that disagree with him...
+
+I spied Pointers on C and the book starts with such a hard example followed by really easy exercises that I got baffled by the inconsistency of the first chapter and got a little put off. I'm not kidding or exaggerating, the first sample code is over 200 lines long and one of the exercises of the chapter is "Hello world!". So I decided to get more context in C before trying to tackle that book.
+
+I got in the http://witchat.github.io/[Wichat] (Woman in tech) slack community and it seems like a great place to be in! 
 
 I feel like I would really like Zulip from the Recurse center as well, but for that, I still need to go to the recurse center, so... One thing at a time.
