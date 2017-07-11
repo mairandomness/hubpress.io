@@ -1,0 +1,39 @@
+= The very scary phenomenum of things starting to get concrete
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about e parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-07-11
+// :hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: The very scary phenomenum of things starting to get concrete
+
+image::20170711_111304-1.jpg[drawing of me in despair really not wanting to study, but deciding to do so anyway]
+
+So it's been almost two months since my last post. A lot of things happened and I'll try to go trough some of them. 
+
+I broke my foot on June 18th, have been hopping around since... Hopefully, my doctor will let me put weight on it this Friday
+
+=== About leaving work and feelings on time management and productivity
+After much stress from being on medical leave right before the day I was supposed to quit working and the end of a school term (I did end up working even with a medical leave), now I'm not working anymore! I do have stuff from the process of leaving work to take care of, but no actual work anymore.
+
+Which leads us to how easy it is to feel bad about my pace in learning and how bad I can be with time management when I'm anxious and how that becomes an infinite loop of trying to be reasonable and understanding with myself: +
+"Agh, if I was feeling better my productivity would probably be way better, maybe I should take some time to take care of myself, I can do this, It's healthy.". Because, well, we know that breaks are healthy and that work really flows when we are feeling good. But the equilibrium with breaks to improve productivity, to feeling like you are just being too lenient with yourself, to feeling like you are just slacking off with a fair excuse is HARD. And I'm going with feeling here because productivity is a very subjective concept and even more so at a self-paced self-learning experience like this one. And feeling, in this case, is really important, while I was still working, studying was like bonus points that made me really happy, right now I feel that there's more weight to it, because it kinda became my "job" now.
+
+Which leads us to the next feeling the escalating anxiousness that's brought forth by insecurity that was confirmed by the feeling that my productivity is not meeting my imaginary arbitrary metric of "being enough": +
+"I DIDN'T DO ANYTHING!!!! HOW CAN THIS BE??? It's been a month and I'm one-third of the way through Zed's book still... I'm not sure that I can grasp the subtleties of pointers anytime soon :( This was a terrible idea and can I really even become a *real* programmer?? I do know that the Math background helps... But there's so much I don't know... When will I start feeling that I have context? When will I start to feel that I can really make a job out of this? How long will I stay off work? What kind of strain not working for who knows how long will put in my relationship? Just what is going to happen in my life next year?" 
+
+And I think it feels great to admit all of this and admit that *I don't want to study today* (to reference the drawing only, I actually want to study today, maybe grasp macros a little better?), as long as I'm still able to move with and through those feelings and still do something, because I know that it will take time to internalize a bunch of these things, but exposure is so important... Keeping at it even if I don't really want to, feels good some days and doing absolutely nothing on other days can feel just great. I'm mostly trying to find where my equilibrium lies. For now, I'm trying to stick to doing a Pomodoro time management thing with an app and it is so hard to get used to (I'm finishing this in a break)!
+
+
+=== On 42 and traveling to California
+
+The date of my travel to attend 42 silicon valley is getting closer (because that's the way time works) and I'm getting a bit anxious about it.
+
+For starters, it is a collaborative space, but with no particular code of conduct or anything... I worry that a lot of the bad behaviors and prejudices that are common to the tech industry will be present to the point of me not feeling comfortable in that space. I got some red flags on the slack channel, but it's hard to say that those behaviors are representative of the community. I don't want to feel down without the need, but I really also don't want to get my hopes up about how I'll feel about the environment. 
+
+=== On other notes
+I dislike Zed Shawn increasingly as I go through the book, I guess he can complain as much as he likes, but he definitely could teach something while refraining from attacking people that disagree with him...
+
+I spied Pointers on C and the book starts with such a hard example followed by really easy exercises that I got baffled by the inconsistency of the first chapter and got a little put off. I'm not kidding or exaggerating, the first sample code is over 200 lines long and one of the exercises of the chapter is "Hello world!". So I decided to get more context in C before trying to tackle that book.
+
+I got in the http://witchat.github.io/[Wichat] (Woman in tech) slack community and it seems like a great place to be in! 
+
+I feel like I would really like Zulip from the Recurse center as well, but for that, I still need to go to the recurse center, so... One thing at a time.
