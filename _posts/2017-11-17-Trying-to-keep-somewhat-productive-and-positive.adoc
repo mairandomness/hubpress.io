@@ -37,7 +37,7 @@ I did a productivity journal, just listing things that I want to accomplish/acco
 
 == Stuff on my to-do list
 * Apply to https://www.recurse.com/[The Recurse Center]'s April's batch, I need to start working on my application stuff :>
-* Read https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1510954717&sr=8-1&keywords=cracking+the+coding+interview&dpID=41XgSiYW7dL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch[Cracking the Coding Interview], I mean... I want to get a job next year and reading a book is not the kind of activity I want to dedicate my hypothetical time on The Recurse Center, even though is a very helpful and practical book  ¯\_(ツ)_/¯
+* Read https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/[Cracking the Coding Interview], I mean... I want to get a job next year and reading a book is not the kind of activity I want to dedicate my hypothetical time on The Recurse Center, even though is a very helpful and practical book  ¯\_(ツ)_/¯
 * Watch the computation series from https://www.destroyallsoftware.com/screencasts[Destroy All Software], because it seems interesting and fun, really.
 * Finish Peter Norvig's Udacity https://br.udacity.com/course/design-of-computer-programs--cs212[course] on design of computer programs
 * Maybe do some https://cryptopals.com/[Cryptopals] stuff? It sounds so interesting!!
