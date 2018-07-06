@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Recurse Center, Rust and Magical girls - My pc, my cats and me</title>
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <meta name="description" content="">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Recurse Center, Rust and Magical girls">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Recurse Center, Rust and Magical girls">
+    <meta property="og:description" content="">
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
+
+    <link rel="stylesheet" type="text/css" href="//mairandomness.github.io/randomblog/themes/uno/assets/css/uno.css?v=1530919201848" />
+
+    <link rel="canonical" href="https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html" />
+    <meta name="referrer" content="origin" />
+    
+    <meta property="og:site_name" content="My pc, my cats and me" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Recurse Center, Rust and Magical girls" />
+    <meta property="og:description" content="Last month I drew this and was retweeted by the Rustlang twitter account and I was very much surprised by that! I have been studying Rust at a leisurely pace since late April when I got to attend a crazy cheap conference with really big names in it. The conference" />
+    <meta property="og:url" content="https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html" />
+    <meta property="article:published_time" content="2018-07-06T00:00:00.000Z" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Recurse Center, Rust and Magical girls" />
+    <meta name="twitter:description" content="Last month I drew this and was retweeted by the Rustlang twitter account and I was very much surprised by that! I have been studying Rust at a leisurely pace since late April when I got to attend a crazy cheap conference with really big names in it. The conference" />
+    <meta name="twitter:url" content="https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "My pc, my cats and me",
+    "author": {
+        "@type": "Person",
+        "name": "mairandomness",
+        "image": "https://avatars2.githubusercontent.com/u/24379464?v=4",
+        "url": "https://mairandomness.github.io/randomblog/author/mairandomness/"
+    },
+    "headline": "Recurse Center, Rust and Magical girls",
+    "url": "https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html",
+    "datePublished": "2018-07-06T00:00:00.000Z",
+    "description": "Last month I drew this and was retweeted by the Rustlang twitter account and I was very much surprised by that! I have been studying Rust at a leisurely pace since late April when I got to attend a crazy cheap conference with really big names in it. The conference"
+}
+    </script>
+
+    <meta name="generator" content="HubPress" />
+    <link rel="alternate" type="application/rss+xml" title="My pc, my cats and me" href="https://mairandomness.github.io/randomblog/rss/" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
+
+</head>
+<body class="post-template no-js">
+
+    <span class="mobile btn-mobile-menu">
+        <i class="icon icon-list btn-mobile-menu__icon"></i>
+        <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+    </span>
+
+    <header class="panel-cover panel-cover--collapsed " style="background-image: url(https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg)">
+      <div class="panel-main">
+    
+        <div class="panel-main__inner panel-inverted">
+        <div class="panel-main__content">
+    
+            <a href="https://mairandomness.github.io/randomblog" title="link to homepage for My pc, my cats and me"><img src="https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pixelcat.png" width="80" alt="My pc, my cats and me logo" class="panel-cover__logo logo" /></a>
+            <h1 class="panel-cover__title panel-title"><a href="https://mairandomness.github.io/randomblog" title="link to homepage for My pc, my cats and me">My pc, my cats and me</a></h1>
+            <hr class="panel-cover__divider" />
+            <p class="panel-cover__description">Blog about my journey learning things and surviving life in general</p>
+            <hr class="panel-cover__divider panel-cover__divider--secondary" />
+    
+            <div class="navigation-wrapper">
+    
+              <nav class="cover-navigation cover-navigation--primary">
+                <ul class="navigation">
+                  <li class="navigation__item"><a href="https://mairandomness.github.io/randomblog/#blog" title="link to My pc, my cats and me blog" class="blog-button">Blog</a></li>
+                </ul>
+              </nav>
+    
+              
+              
+              <nav class="cover-navigation navigation--social">
+                <ul class="navigation">
+              
+              
+                  <!-- Twitter -->
+                  <li class="navigation__item">
+                    <a href="https://twitter.com/maiRandomness/" title="Twitter account">
+                      <i class='icon icon-social-twitter'></i>
+                      <span class="label">Twitter</span>
+                    </a>
+                  </li>
+              
+              
+                  <!-- Github -->
+                  <li class="navigation__item">
+                    <a href="https://github.com/mairandomness/" title="Github account">
+                      <i class='icon icon-social-github'></i>
+                      <span class="label">Github</span>
+                    </a>
+                  </li>
+                  </li>
+              
+              
+              
+              
+              
+              
+                </ul>
+              </nav>
+              
+    
+            </div>
+    
+          </div>
+    
+        </div>
+    
+        <div class="panel-cover--overlay"></div>
+      </div>
+    </header>
+
+    <div class="content-wrapper">
+        <div class="content-wrapper__inner">
+            
+
+  <article class="post-container post-container--single">
+
+    <header class="post-header">
+      <div class="post-meta">
+        <time datetime="06 Jul 2018" class="post-meta__date date">06 Jul 2018</time> &#8226; <span class="post-meta__tags tags"></span>
+        <span class="post-meta__author author"><img src="https://avatars2.githubusercontent.com/u/24379464?v&#x3D;4" alt="profile image for mairandomness" class="avatar post-meta__avatar" /> by mairandomness</span>
+      </div>
+      <h1 class="post-title">Recurse Center, Rust and Magical girls</h1>
+    </header>
+
+    <section class="post">
+      <div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="https://mairandomness.github.io/randomblog/images/magical-ferris.jpg" alt="drawing of Ferris (the Rust mascot) as a magical girl">
+</div>
+</div>
+<div class="paragraph">
+<p>Last month I drew this and was retweeted by the Rustlang twitter account and I was very much surprised by that!</p>
+</div>
+<div class="paragraph">
+<p>I have been studying Rust at a leisurely pace since late April when I got to attend a crazy cheap conference with really big names in it. The conference was called BuzzConf and was in Buenos Aires and had talks and workshops by Steve Klabnik, Christopher Meiklejohn &lt;3.</p>
+</div>
+<div class="paragraph">
+<p>I happened to fall in love with Rust thanks to Steve&#8217;s workshop and I have been using some learning resources, like:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://exercism.io/languages/rust/about">Exercism</a> - Short exercises that tend to tackle one to a few concepts at a time, it feels pretty rewarding to go through them  and the people involved in making the project are amazing!</p>
+</li>
+<li>
+<p><a href="https://tomassedovic.github.io/roguelike-tutorial/">Roguelike tutorial in Rust</a> - This is a tutorial that is basically a rewrite from another tutorial, that was originally written in Python. It uses the tcod library and it&#8217;s pretty interesting to follow :)</p>
+</li>
+<li>
+<p>The new rustacean podcast</p>
+</li>
+<li>
+<p><a href="https://doc.rust-lang.org/book/second-edition/index.html" class="bare">https://doc.rust-lang.org/book/second-edition/index.html</a> [The Rust Programming Language Book] - I can&#8217;t praise this enough. It&#8217;s REALLY well written and it has some interesting insights on design choices in the language.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_replanning_my_year">Replanning my year</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Right after the Steve Klabnik workshop I kept thinking about the things that I want to do and reworked my plans for the year :D</p>
+</div>
+<div class="paragraph">
+<p>Which now include attending the Recurse Center to study more Rust :) and apply to Outreachy to work on a Rust project. I have also recently learned about Rustreach, which also made pretty excited and I could do it while having a job &lt;3</p>
+</div>
+<div class="paragraph">
+<p>I re-applied to attend Recurse Center just last week :3</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_other_exciting_news">Other exciting news</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I got a couple of commits in the master branch of a FOSS project!!!
+And it felt so validating! The project maintainer was really encouraging and nice, and I literally cried tears of joy when my commits were merged.  The commits were far from being amazing (I was trying to update the dependencies of the project and submit a PR, didn&#8217;t get that far, just opened an issue and sent the changes I had made so there was no duplicate work) but I really think this one thing is REALLY important! Because even if you feel that your contribution is not amazing, it still is a contribution and feeling the maintainer embracing my changes was awesome!! I hope there are more maintainers like Federico Mena.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;m not sure if you are a minority in tech. But if you are, there are a number of initiatives that you can benefit from!!!</p>
+</div>
+<div class="paragraph">
+<p>This year I&#8217;m attending two conferences with diversity tickects :D</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Strange Loop through Project Alloy (I only asked for a ticket, but they can offer you a place to stay and airplane tickets for travel inside the US)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>*Rustconf through the conference&#8217;s own diversity program (they only will get you tickets). There&#8217;s also Rustbridge which is a free workshop for minorities as a preconf event.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_yet_other_news">Yet other news</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I&#8217;m still studying web programing because I will need a job eventually and I know that&#8217;s where A LOT of the jobs are it doesn&#8217;t hurt to learn new things.
+Even though it&#8217;s not particularly interesting to learn how to use a framework, I know it gets me closer, even if just a little bit, to learning how the framework actually works under the hood and that sounds amazing!!</p>
+</div>
+</div>
+</div>
+    </section>
+
+  </article>
+
+
+
+
+            <footer class="footer">
+                <span class="footer__copyright">&copy; 2018. All rights reserved.</span>
+                <span class="footer__copyright"><a href="http://uno.daleanthony.com" title="link to page for Uno Ghost theme">Uno theme</a> by <a href="http://daleanthony.com" title="link to website for Dale-Anthony">Dale-Anthony</a></span>
+                <span class="footer__copyright">Proudly published with <a href="http://hubpress.io" title="link to Hubpress website">Hubpress</a></span>
+            </footer>
+        </div>
+    </div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();
+      </script>
+       
+    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+    <script type="text/javascript" src="//mairandomness.github.io/randomblog/themes/uno/assets/js/main.js?v=1530919201848"></script>
+    
+
+</body>
+</html>

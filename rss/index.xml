@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My pc, my cats and me]]></title><description><![CDATA[Blog about my journey learning things and surviving life in general]]></description><link>https://mairandomness.github.io/randomblog</link><image><url>https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg</url><title>My pc, my cats and me</title><link>https://mairandomness.github.io/randomblog</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 17 Nov 2017 22:15:34 GMT</lastBuildDate><atom:link href="https://mairandomness.github.io/randomblog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My thoughts on 42, the last 4 months and what I'm looking forward to :)]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My pc, my cats and me]]></title><description><![CDATA[Blog about my journey learning things and surviving life in general]]></description><link>https://mairandomness.github.io/randomblog</link><image><url>https://raw.githubusercontent.com/mairandomness/randomblog/gh-pages/images/pcandcatsdark.jpg</url><title>My pc, my cats and me</title><link>https://mairandomness.github.io/randomblog</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 06 Jul 2018 23:20:01 GMT</lastBuildDate><atom:link href="https://mairandomness.github.io/randomblog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Recurse Center, Rust and Magical girls]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="https://mairandomness.github.io/randomblog/images/magical-ferris.jpg" alt="drawing of Ferris (the Rust mascot) as a magical girl">
+</div>
+</div>
+<div class="paragraph">
+<p>Last month I drew this and was retweeted by the Rustlang twitter account and I was very much surprised by that!</p>
+</div>
+<div class="paragraph">
+<p>I have been studying Rust at a leisurely pace since late April when I got to attend a crazy cheap conference with really big names in it. The conference was called BuzzConf and was in Buenos Aires and had talks and workshops by Steve Klabnik, Christopher Meiklejohn &lt;3.</p>
+</div>
+<div class="paragraph">
+<p>I happened to fall in love with Rust thanks to Steve&#8217;s workshop and I have been using some learning resources, like:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://exercism.io/languages/rust/about">Exercism</a> - Short exercises that tend to tackle one to a few concepts at a time, it feels pretty rewarding to go through them  and the people involved in making the project are amazing!</p>
+</li>
+<li>
+<p><a href="https://tomassedovic.github.io/roguelike-tutorial/">Roguelike tutorial in Rust</a> - This is a tutorial that is basically a rewrite from another tutorial, that was originally written in Python. It uses the tcod library and it&#8217;s pretty interesting to follow :)</p>
+</li>
+<li>
+<p>The new rustacean podcast</p>
+</li>
+<li>
+<p><a href="https://doc.rust-lang.org/book/second-edition/index.html" class="bare">https://doc.rust-lang.org/book/second-edition/index.html</a> [The Rust Programming Language Book] - I can&#8217;t praise this enough. It&#8217;s REALLY well written and it has some interesting insights on design choices in the language.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_replanning_my_year">Replanning my year</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Right after the Steve Klabnik workshop I kept thinking about the things that I want to do and reworked my plans for the year :D</p>
+</div>
+<div class="paragraph">
+<p>Which now include attending the Recurse Center to study more Rust :) and apply to Outreachy to work on a Rust project. I have also recently learned about Rustreach, which also made pretty excited and I could do it while having a job &lt;3</p>
+</div>
+<div class="paragraph">
+<p>I re-applied to attend Recurse Center just last week :3</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_other_exciting_news">Other exciting news</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I got a couple of commits in the master branch of a FOSS project!!!
+And it felt so validating! The project maintainer was really encouraging and nice, and I literally cried tears of joy when my commits were merged.  The commits were far from being amazing (I was trying to update the dependencies of the project and submit a PR, didn&#8217;t get that far, just opened an issue and sent the changes I had made so there was no duplicate work) but I really think this one thing is REALLY important! Because even if you feel that your contribution is not amazing, it still is a contribution and feeling the maintainer embracing my changes was awesome!! I hope there are more maintainers like Federico Mena.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;m not sure if you are a minority in tech. But if you are, there are a number of initiatives that you can benefit from!!!</p>
+</div>
+<div class="paragraph">
+<p>This year I&#8217;m attending two conferences with diversity tickects :D</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Strange Loop through Project Alloy (I only asked for a ticket, but they can offer you a place to stay and airplane tickets for travel inside the US)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>*Rustconf through the conference&#8217;s own diversity program (they only will get you tickets). There&#8217;s also Rustbridge which is a free workshop for minorities as a preconf event.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_yet_other_news">Yet other news</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I&#8217;m still studying web programing because I will need a job eventually and I know that&#8217;s where A LOT of the jobs are it doesn&#8217;t hurt to learn new things.
+Even though it&#8217;s not particularly interesting to learn how to use a framework, I know it gets me closer, even if just a little bit, to learning how the framework actually works under the hood and that sounds amazing!!</p>
+</div>
+</div>
+</div>]]></description><link>https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html</link><guid isPermaLink="true">https://mairandomness.github.io/randomblog/2018/07/06/Recurse-Center-Rust-and-Magical-girls.html</guid><pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[My thoughts on 42, the last 4 months and what I'm looking forward to :)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>I think it&#8217;s been around four months since I last posted. I have been postponing it since around September, I think? Now my memories of the whole experience at 42 Silicon Valley are not fresh at all&#8230;&#8203; But I still want to keep tabs on the things I have been doing and want to do, as well as my feelings in general.  Which is pretty much the whole reason I started this blog for.</p>
